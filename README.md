@@ -1,8 +1,10 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Salma%20Marzouk&fontSize=50&fontColor=fff&animation=fadeIn&desc=AI%20Engineer%20in%20the%20making%20✦&descSize=18&descAlignY=68&fontAlignY=45)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&height=80&lines=Hey+%F0%9F%91%8B+I'm+Salma+Marzouk!;AI+%26+Data+Engineer+in+the+making+%F0%9F%A4%96;LLMs+%C2%B7+RAG+%C2%B7+MLOps+%C2%B7+Full+Stack+%F0%9F%9A%80" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Computer+Engineering+Student+%F0%9F%8E%93;AI+%26+Data+Enthusiast+%F0%9F%A4%96;LLMs+%C2%B7+RAG+%C2%B7+MLOps+Explorer+%E2%98%81%EF%B8%8F;Building+intelligent+systems+%F0%9F%9A%80" alt="Typing SVG" />
+<br/>
+
+**Computer Engineering Student · ENSA Tanger**
 
 <br/>
 
@@ -46,21 +48,17 @@ salma = {
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&icon_color=a78bfa)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9)
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&icon_color=a78bfa" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" height="160"/>
 
-</div>
+<br/><br/>
 
-<div align="center">
-
-![streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=c9d1d9&stroke=a78bfa)
+<img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=c9d1d9" height="160"/>
 
 </div>
 
 ---
 
 <div align="center">
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:24243e,100:302b63&height=100&section=footer)
-
+<sub>Open to PFA internship opportunities · AI / Data / MLOps · 2025</sub>
 </div>
