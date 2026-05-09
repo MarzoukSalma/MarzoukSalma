@@ -4,7 +4,7 @@
 
 <br/>
 
-**Computer Engineering Student · ENSA Tanger**
+**Computer Engineering Student**
 
 <br/>
 
