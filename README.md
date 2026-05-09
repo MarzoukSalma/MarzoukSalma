@@ -1,10 +1,4 @@
-<div align="center">
-
-<img width="100%" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=30&pause=1000&color=7EE7FF&center=true&vCenter=true&width=850&lines=Hey+%F0%9F%91%8B+I'm+Salma+Marzouk;AI+%26+Data+Science+Student+%F0%9F%A4%96;Building+Cute+%26+Smart+AI+Projects+%E2%9C%A8;Learning+Something+New+Everyday+%F0%9F%92%AB;Future+AI+Engineer+%F0%9F%9A%80" alt="Typing SVG" />
-
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=A78BFA&center=true&vCenter=true&width=800&height=80&lines=Welcome+to+my+GitHub+Profile+%F0%9F%92%AB;I'm+Salma+Marzouk;AI+%26+Data+Science+Student;Building+Smart+Applications+with+AI;Always+Learning+New+Technologies+%F0%9F%9A%80" alt="Typing SVG" />
 <br/>
 
 **Computer Engineering Student**
